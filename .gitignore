@@ -1,0 +1,8 @@
+[0-9]*
+postProcessing/
+processor*/
+logs/
+*.log
+VTK/
+*.msh
+*.foam
