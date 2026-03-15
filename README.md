@@ -12,3 +12,14 @@ Solver: simpleFoam (RAS kEpsilon, inlet 10 m/s, outlet zeroGradient, wall noSlip
 
 Post-processing: ParaView
 
+
+Ansys → OpenFOAM mesh conversion
+
+
+Turbulence modeling & wall functions
+
+
+Debugging OpenFOAM errors
+
+
+Complete CFD pipeline
