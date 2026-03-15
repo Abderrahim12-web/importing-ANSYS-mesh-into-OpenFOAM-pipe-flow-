@@ -13,6 +13,9 @@ Solver: simpleFoam (RAS kEpsilon, inlet 10 m/s, outlet zeroGradient, wall noSlip
 Post-processing: ParaView
 
 
+WHAT I LEARNED;
+
+
 Ansys → OpenFOAM mesh conversion
 
 
